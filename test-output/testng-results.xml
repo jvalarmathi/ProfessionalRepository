@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33438" started-at="2018-02-04T15:25:14Z" finished-at="2018-02-04T15:25:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33438" started-at="2018-02-04T15:25:14Z" finished-at="2018-02-04T15:25:48Z">
+      <class name="Mathi.Test.Loginvalidation">
+        <test-method status="PASS" signature="Launchbrowser()[pri:0, instance:Mathi.Test.Loginvalidation@100df86]" name="Launchbrowser" is-config="true" duration-ms="4708" started-at="2018-02-04T09:25:14Z" finished-at="2018-02-04T09:25:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launchbrowser -->
+        <test-method status="PASS" signature="LoginvalidationTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Mathi.Test.Loginvalidation@100df86]" name="LoginvalidationTest" duration-ms="4643" started-at="2018-02-04T09:25:19Z" data-provider="SearchProvider" finished-at="2018-02-04T09:25:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[BlankInputs]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginvalidationTest -->
+        <test-method status="PASS" signature="LoginvalidationTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Mathi.Test.Loginvalidation@100df86]" name="LoginvalidationTest" duration-ms="4694" started-at="2018-02-04T09:25:24Z" data-provider="SearchProvider" finished-at="2018-02-04T09:25:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalidcredential]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginvalidationTest -->
+        <test-method status="PASS" signature="LoginvalidationTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Mathi.Test.Loginvalidation@100df86]" name="LoginvalidationTest" duration-ms="9094" started-at="2018-02-04T09:25:28Z" data-provider="SearchProvider" finished-at="2018-02-04T09:25:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test@hcp.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[UK]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Unregisteredemailid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginvalidationTest -->
+        <test-method status="PASS" signature="LoginvalidationTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Mathi.Test.Loginvalidation@100df86]" name="LoginvalidationTest" duration-ms="7836" started-at="2018-02-04T09:25:37Z" data-provider="SearchProvider" finished-at="2018-02-04T09:25:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testprofile0531@hcp.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test1234]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Valid credential]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginvalidationTest -->
+        <test-method status="PASS" signature="Closebrowser()[pri:0, instance:Mathi.Test.Loginvalidation@100df86]" name="Closebrowser" is-config="true" duration-ms="2433" started-at="2018-02-04T09:25:45Z" finished-at="2018-02-04T09:25:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closebrowser -->
+      </class> <!-- Mathi.Test.Loginvalidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
