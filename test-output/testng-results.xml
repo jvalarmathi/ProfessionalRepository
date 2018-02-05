@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="33438" started-at="2018-02-04T15:25:14Z" finished-at="2018-02-04T15:25:48Z">
+  <suite name="TestSuite" duration-ms="104051" started-at="2018-02-05T11:22:00Z" finished-at="2018-02-05T11:23:44Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="33438" started-at="2018-02-04T15:25:14Z" finished-at="2018-02-04T15:25:48Z">
+    <test name="professional.com" duration-ms="104051" started-at="2018-02-05T11:22:00Z" finished-at="2018-02-05T11:23:44Z">
       <class name="Mathi.Test.Loginvalidation">
-        <test-method status="PASS" signature="Launchbrowser()[pri:0, instance:Mathi.Test.Loginvalidation@100df86]" name="Launchbrowser" is-config="true" duration-ms="4708" started-at="2018-02-04T09:25:14Z" finished-at="2018-02-04T09:25:19Z">
+        <test-method status="PASS" signature="Launchbrowser()[pri:0, instance:Mathi.Test.Loginvalidation@1ec2012]" name="Launchbrowser" is-config="true" duration-ms="5725" started-at="2018-02-05T05:22:00Z" finished-at="2018-02-05T05:22:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Launchbrowser -->
-        <test-method status="PASS" signature="LoginvalidationTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Mathi.Test.Loginvalidation@100df86]" name="LoginvalidationTest" duration-ms="4643" started-at="2018-02-04T09:25:19Z" data-provider="SearchProvider" finished-at="2018-02-04T09:25:24Z">
+        <test-method status="PASS" signature="Launchbrowser()[pri:0, instance:Mathi.Test.RequestAccessTest@f777e8]" name="Launchbrowser" is-config="true" duration-ms="7595" started-at="2018-02-05T05:22:05Z" finished-at="2018-02-05T05:22:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launchbrowser -->
+        <test-method status="PASS" signature="Launchbrowser()[pri:0, instance:Mathi.Test.RequestaccessvalidationTest@1686d1f]" name="Launchbrowser" is-config="true" duration-ms="7676" started-at="2018-02-05T05:22:13Z" finished-at="2018-02-05T05:22:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launchbrowser -->
+        <test-method status="PASS" signature="LoginvalidationTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Mathi.Test.Loginvalidation@1ec2012]" name="LoginvalidationTest" duration-ms="4694" started-at="2018-02-05T05:22:21Z" data-provider="SearchProvider" finished-at="2018-02-05T05:22:25Z">
           <params>
             <param index="0">
               <value>
@@ -32,7 +40,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginvalidationTest -->
-        <test-method status="PASS" signature="LoginvalidationTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Mathi.Test.Loginvalidation@100df86]" name="LoginvalidationTest" duration-ms="4694" started-at="2018-02-04T09:25:24Z" data-provider="SearchProvider" finished-at="2018-02-04T09:25:28Z">
+        <test-method status="PASS" signature="LoginvalidationTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Mathi.Test.Loginvalidation@1ec2012]" name="LoginvalidationTest" duration-ms="4553" started-at="2018-02-05T05:22:25Z" data-provider="SearchProvider" finished-at="2018-02-05T05:22:30Z">
           <params>
             <param index="0">
               <value>
@@ -53,7 +61,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginvalidationTest -->
-        <test-method status="PASS" signature="LoginvalidationTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Mathi.Test.Loginvalidation@100df86]" name="LoginvalidationTest" duration-ms="9094" started-at="2018-02-04T09:25:28Z" data-provider="SearchProvider" finished-at="2018-02-04T09:25:37Z">
+        <test-method status="PASS" signature="LoginvalidationTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Mathi.Test.Loginvalidation@1ec2012]" name="LoginvalidationTest" duration-ms="9823" started-at="2018-02-05T05:22:30Z" data-provider="SearchProvider" finished-at="2018-02-05T05:22:40Z">
           <params>
             <param index="0">
               <value>
@@ -74,7 +82,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginvalidationTest -->
-        <test-method status="PASS" signature="LoginvalidationTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Mathi.Test.Loginvalidation@100df86]" name="LoginvalidationTest" duration-ms="7836" started-at="2018-02-04T09:25:37Z" data-provider="SearchProvider" finished-at="2018-02-04T09:25:45Z">
+        <test-method status="PASS" signature="LoginvalidationTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Mathi.Test.Loginvalidation@1ec2012]" name="LoginvalidationTest" duration-ms="8296" started-at="2018-02-05T05:22:40Z" data-provider="SearchProvider" finished-at="2018-02-05T05:22:48Z">
           <params>
             <param index="0">
               <value>
@@ -95,11 +103,31 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginvalidationTest -->
-        <test-method status="PASS" signature="Closebrowser()[pri:0, instance:Mathi.Test.Loginvalidation@100df86]" name="Closebrowser" is-config="true" duration-ms="2433" started-at="2018-02-04T09:25:45Z" finished-at="2018-02-04T09:25:48Z">
+        <test-method status="PASS" signature="Closebrowser()[pri:0, instance:Mathi.Test.Loginvalidation@1ec2012]" name="Closebrowser" is-config="true" duration-ms="2436" started-at="2018-02-05T05:23:36Z" finished-at="2018-02-05T05:23:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closebrowser -->
+        <test-method status="PASS" signature="Closebrowser()[pri:0, instance:Mathi.Test.RequestAccessTest@f777e8]" name="Closebrowser" is-config="true" duration-ms="2411" started-at="2018-02-05T05:23:39Z" finished-at="2018-02-05T05:23:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closebrowser -->
+        <test-method status="PASS" signature="Closebrowser()[pri:0, instance:Mathi.Test.RequestaccessvalidationTest@1686d1f]" name="Closebrowser" is-config="true" duration-ms="2462" started-at="2018-02-05T05:23:41Z" finished-at="2018-02-05T05:23:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Closebrowser -->
       </class> <!-- Mathi.Test.Loginvalidation -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      <class name="Mathi.Test.RequestAccessTest">
+        <test-method status="PASS" signature="RequestAccessTest()[pri:0, instance:Mathi.Test.RequestAccessTest@f777e8]" name="RequestAccessTest" duration-ms="31142" started-at="2018-02-05T05:22:48Z" finished-at="2018-02-05T05:23:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RequestAccessTest -->
+      </class> <!-- Mathi.Test.RequestAccessTest -->
+      <class name="Mathi.Test.RequestaccessvalidationTest">
+        <test-method status="PASS" signature="RequestAccessTest()[pri:0, instance:Mathi.Test.RequestaccessvalidationTest@1686d1f]" name="RequestAccessTest" duration-ms="17201" started-at="2018-02-05T05:23:19Z" finished-at="2018-02-05T05:23:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RequestAccessTest -->
+      </class> <!-- Mathi.Test.RequestaccessvalidationTest -->
+    </test> <!-- professional.com -->
+  </suite> <!-- TestSuite -->
 </testng-results>
