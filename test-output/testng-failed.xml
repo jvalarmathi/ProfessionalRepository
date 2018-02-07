@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="Mathi.Test.Loginvalidation">
+      <class name="Mathi.Test.BrokenlinksTest">
         <methods>
-          <include name="LoginvalidationTest" invocation-numbers="0 1 2 3"/>
-          <include name="Closebrowser"/>
-          <include name="Launchbrowser"/>
+          <include name="launchbrowser"/>
+          <include name="linksTest"/>
+          <include name="closebrowser"/>
         </methods>
-      </class> <!-- Mathi.Test.Loginvalidation -->
+      </class> <!-- Mathi.Test.BrokenlinksTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

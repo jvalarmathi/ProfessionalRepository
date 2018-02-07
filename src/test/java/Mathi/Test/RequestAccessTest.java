@@ -78,7 +78,7 @@ public class RequestAccessTest {
 	    ob.clicksubmit();
 	    Thread.sleep(2000);
 	    SS3.takingfullSS(driver, "C:\\Users\\padivv2\\eclipse-workspace\\Test\\ScreenShots\\RequestAccessTest\\aftersubmit.png");
-		String PagetitlelA=driver.getTitle();
+	    String PagetitlelA=driver.getTitle();
 		String PagetitleE="Registration Pending";
 		if ( PagetitlelA.equals(PagetitleE))
 		{
@@ -88,7 +88,7 @@ public class RequestAccessTest {
 		{
 			System.out.println("Request Access is Not Successful");
 		}
-	}
+		}
 @AfterTest
 	
 	public void Closebrowser()
