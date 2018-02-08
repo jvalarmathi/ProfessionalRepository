@@ -5,6 +5,8 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
+import java.util.Random;
+import java.util.UUID;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -23,12 +25,11 @@ public class RequestAccessTest {
 	@BeforeTest
 	public void Launchbrowser() throws InterruptedException
 	{
-		File file = new File("C:/Users/padivv2/eclipse-workspace/Test/src/test/java/utility/datafile.properties");
+		File file = new File("src/test/java/utility/datafile.properties");
 	  
 	FileInputStream fileInput = null;
 	try {
-		fileInput = new FileInputStream(file);
-	} catch (FileNotFoundException e) {
+		fileInput = new FileInputStream(file);	} catch (FileNotFoundException e) {
 		e.printStackTrace();
 	}
 	//Properties prop = new Properties();
@@ -50,8 +51,10 @@ public class RequestAccessTest {
 	public void RequestAccessTest() throws IOException, InterruptedException
 	{
 		RequestAccessPage ob=new RequestAccessPage(driver);
-		ob.regionselect(prop.getProperty("region"));		
-		ob.enteremail(prop.getProperty("emailAddress"));
+		ob.regionselect(prop.getProperty("region"));
+		Random randomGenerator = new Random();  
+		int randomInt = randomGenerator.nextInt(1000);  
+		ob.enteremail(randomInt+prop.getProperty("emailAddress"));
 		ob.enterpwd(prop.getProperty("password"));
 		ob.enterconfirmpwd(prop.getProperty("confirmPassword"));
 	    ob.enterFN(prop.getProperty("firstName"));
@@ -74,10 +77,9 @@ public class RequestAccessTest {
 	    ob.selectspcialitycheckbox();
 	    ob.selectshcpcheckbox();
 	    TakingfullpagescreenShot SS3 = new TakingfullpagescreenShot();
-		SS3.takingfullSS(driver, "C:\\Users\\padivv2\\eclipse-workspace\\Test\\ScreenShots\\RequestAccessTest\\beforesubmit.png");
+		SS3.takingfullSS(driver, "ScreenShots\\RequestAccessTest\\beforesubmit.png");
 	    ob.clicksubmit();
-	    Thread.sleep(2000);
-	    SS3.takingfullSS(driver, "C:\\Users\\padivv2\\eclipse-workspace\\Test\\ScreenShots\\RequestAccessTest\\aftersubmit.png");
+	    SS3.takingfullSS(driver, "ScreenShots\\RequestAccessTest\\aftersubmit.png");
 	    String PagetitlelA=driver.getTitle();
 		String PagetitleE="Registration Pending";
 		if ( PagetitlelA.equals(PagetitleE))

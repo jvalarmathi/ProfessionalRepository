@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="Mathi.Test.BrokenlinksTest">
+      <class name="Mathi.Test.RequestAccessTest">
         <methods>
-          <include name="launchbrowser"/>
-          <include name="linksTest"/>
-          <include name="closebrowser"/>
+          <include name="Closebrowser"/>
+          <include name="RequestAccessTest"/>
+          <include name="Launchbrowser"/>
         </methods>
-      </class> <!-- Mathi.Test.BrokenlinksTest -->
+      </class> <!-- Mathi.Test.RequestAccessTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

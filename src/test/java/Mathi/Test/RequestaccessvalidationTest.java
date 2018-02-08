@@ -24,7 +24,7 @@ public class RequestaccessvalidationTest {
 	@BeforeTest
 	public void Launchbrowser() throws InterruptedException
 	{
-		File file = new File("C:/Users/padivv2/eclipse-workspace/Test/src/test/java/utility/datafile.properties");
+		File file = new File("src/test/java/utility/datafile.properties");
 	  
 	FileInputStream fileInput = null;
 	try {
@@ -53,9 +53,9 @@ public class RequestaccessvalidationTest {
 		RequestAccessPage ob=new RequestAccessPage(driver);
 		ob.regionselect(prop.getProperty("region"));
 		TakingfullpagescreenShot SS3 = new TakingfullpagescreenShot();
-		SS3.takingfullSS(driver, "C:\\Users\\padivv2\\eclipse-workspace\\Test\\ScreenShots\\RequestAccessValidationTest\\beforesubmit1.png");
+		SS3.takingfullSS(driver, "ScreenShots\\RequestAccessValidationTest\\beforesubmit1.png");
 		ob.clicksubmit();
-		SS3.takingfullSS(driver, "C:\\Users\\padivv2\\eclipse-workspace\\Test\\ScreenShots\\RequestAccessValidationTest\\aftersubmit1.png");
+		SS3.takingfullSS(driver, "ScreenShots\\RequestAccessValidationTest\\aftersubmit1.png");
         ob.headmsg();
         ob.Emailmsg();
         ob.passwordmsg();

@@ -24,7 +24,7 @@ public class Loginvalidation {
 	@BeforeTest
 	public void Launchbrowser()
 	{
-		File file = new File("C:/Users/padivv2/eclipse-workspace/Test/src/test/java/utility/datafile.properties");
+		File file = new File("src/test/java/utility/datafile.properties");
 		  
 		FileInputStream fileInput = null;
 		try {
@@ -53,10 +53,10 @@ public class Loginvalidation {
 		LP.Enteremail(user);
 		LP.Enterpassword(password);
 		TakingScreenShot SS = new TakingScreenShot();
-		SS.SSTest(driver, "C:\\Users\\padivv2\\eclipse-workspace\\Test\\ScreenShots\\Loginvalidation\\"+errormsg+"beforeclickLogin.png");
+		SS.SSTest(driver, "ScreenShots\\Loginvalidation\\"+errormsg+"beforeclickLogin.png");
 		LP.clicklogin();
 		Thread.sleep(3000);
-		SS.SSTest(driver, "C:\\Users\\padivv2\\eclipse-workspace\\Test\\ScreenShots\\Loginvalidation\\"+errormsg+"afterclickLogin.png");
+		SS.SSTest(driver, "ScreenShots\\Loginvalidation\\"+errormsg+"afterclickLogin.png");
 	    	}
 	@AfterTest
 	

@@ -26,7 +26,7 @@ public class BrokenlinksTest {
 	@BeforeTest
 	public void launchbrowser() throws InterruptedException
 	{
-		File file = new File("C:/Users/padivv2/eclipse-workspace/Test/src/test/java/utility/datafile.properties");
+		File file = new File("src/test/java/utility/datafile.properties");
 		  
 		FileInputStream fileInput = null;
 		try {
