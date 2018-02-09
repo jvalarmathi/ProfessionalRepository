@@ -13,9 +13,17 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
-
+  
   <dependencies>
-    <dependency>
+  
+       <dependency>
+        <groupId>com.agiletestware</groupId>
+        <artifactId>bumblebee-annotations</artifactId>
+        <version>0.0.3</version>
+        <scope>test</scope>
+    </dependency>
+      
+       <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.11</version>
@@ -86,14 +94,23 @@
     	<artifactId>ashot</artifactId>
     	<version>1.4.12</version>
     </dependency>
+    
   </dependencies>
-  <!-- repositories> 
+  
+   <repositories>
+  <repository>
+        <id>com.agiletestware</id>
+        <name>Agiletestware Maven Repository</name>
+        <url>http://www.agiletestware.com/maven/</url>
+    </repository>
+     </repositories>
+  <!-- repositories>
       <repository>
 			<id>nexus</id>
 			<name>Team Nexus Repository</name>
 			<url>http://9.111.100.134:8082/nexus/content/repositories/thirdparty/</url>			
 	   </repository>
-	</repositories -->
+	  	</repositories -->
   <build>   
      <plugins> 		 
      <!-- Compiler plugin configures the java version to be used for compiling the code -->   
@@ -119,6 +136,33 @@
           <testFailureIgnore>true</testFailureIgnore>
         </configuration> 
   	</plugin>    	
+  	<plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-surefire-plugin</artifactId>
+            <version>2.19</version>
+            <configuration>
+                <properties>
+                    <property>
+                        <name>listener</name>
+                        <value>com.agiletestware.bumblebee.annotations.BumblebeeJUnitListener</value>
+                    </property>
+                </properties>
+            </configuration>
+        </plugin>
+         <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-surefire-plugin</artifactId>
+            <version>2.19</version>
+            <configuration>
+                <properties>
+                    <property>
+                        <name>listener</name>
+                        <value>com.agiletestware.bumblebee.annotations.testng.BumblebeeTestNGReporter</value>
+                    </property>
+                </properties>
+            </configuration>
+        </plugin>
+        
     </plugins>
   </build>
 </project>
