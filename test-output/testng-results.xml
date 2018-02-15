@@ -1,105 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="53032" started-at="2018-02-08T11:00:39Z" finished-at="2018-02-08T11:01:32Z">
+  <suite name="Default suite" duration-ms="39274" started-at="2018-02-14T07:46:26Z" finished-at="2018-02-14T07:47:05Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="53032" started-at="2018-02-08T11:00:39Z" finished-at="2018-02-08T11:01:32Z">
-      <class name="Mathi.Test.Loginvalidation">
-        <test-method status="PASS" signature="Launchbrowser()[pri:0, instance:Mathi.Test.Loginvalidation@100df86]" name="Launchbrowser" is-config="true" duration-ms="7274" started-at="2018-02-08T05:00:39Z" finished-at="2018-02-08T05:00:46Z">
+    <test name="Default test" duration-ms="39274" started-at="2018-02-14T07:46:26Z" finished-at="2018-02-14T07:47:05Z">
+      <class name="Mathi.Test.SeleniumQC">
+        <test-method status="PASS" signature="Launchbrowser()[pri:0, instance:Mathi.Test.SeleniumQC@bf3bbf]" name="Launchbrowser" is-config="true" duration-ms="9011" started-at="2018-02-14T01:46:26Z" finished-at="2018-02-14T01:46:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Launchbrowser -->
-        <test-method status="PASS" signature="LoginvalidationTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Mathi.Test.Loginvalidation@100df86]" name="LoginvalidationTest" duration-ms="5736" started-at="2018-02-08T05:00:46Z" data-provider="SearchProvider" finished-at="2018-02-08T05:00:52Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[BlankInputs]]>
-              </value>
-            </param>
-          </params>
+        <test-method status="PASS" signature="Launchbrowser()[pri:1, instance:Mathi.Test.SeleniumQC@bf3bbf]" name="Launchbrowser" duration-ms="8506" started-at="2018-02-14T01:46:35Z" finished-at="2018-02-14T01:46:43Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- LoginvalidationTest -->
-        <test-method status="PASS" signature="LoginvalidationTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Mathi.Test.Loginvalidation@100df86]" name="LoginvalidationTest" duration-ms="6290" started-at="2018-02-08T05:00:52Z" data-provider="SearchProvider" finished-at="2018-02-08T05:00:58Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Test]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[India]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Invalidcredential]]>
-              </value>
-            </param>
-          </params>
+        </test-method> <!-- Launchbrowser -->
+        <test-method status="PASS" signature="RequestAccessTest()[pri:2, instance:Mathi.Test.SeleniumQC@bf3bbf]" name="RequestAccessTest" duration-ms="19176" started-at="2018-02-14T01:46:43Z" finished-at="2018-02-14T01:47:02Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- LoginvalidationTest -->
-        <test-method status="PASS" signature="LoginvalidationTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Mathi.Test.Loginvalidation@100df86]" name="LoginvalidationTest" duration-ms="16824" started-at="2018-02-08T05:00:58Z" data-provider="SearchProvider" finished-at="2018-02-08T05:01:15Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[test@hcp.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[UK]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Unregisteredemailid]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- LoginvalidationTest -->
-        <test-method status="PASS" signature="LoginvalidationTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Mathi.Test.Loginvalidation@100df86]" name="LoginvalidationTest" duration-ms="13659" started-at="2018-02-08T05:01:15Z" data-provider="SearchProvider" finished-at="2018-02-08T05:01:29Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[testprofile0531@hcp.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Test1234]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Valid credential]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- LoginvalidationTest -->
-        <test-method status="PASS" signature="Closebrowser()[pri:0, instance:Mathi.Test.Loginvalidation@100df86]" name="Closebrowser" is-config="true" duration-ms="3201" started-at="2018-02-08T05:01:29Z" finished-at="2018-02-08T05:01:32Z">
+        </test-method> <!-- RequestAccessTest -->
+        <test-method status="PASS" signature="Closebrowser()[pri:3, instance:Mathi.Test.SeleniumQC@bf3bbf]" name="Closebrowser" duration-ms="2549" started-at="2018-02-14T01:47:02Z" finished-at="2018-02-14T01:47:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Closebrowser -->
-      </class> <!-- Mathi.Test.Loginvalidation -->
+      </class> <!-- Mathi.Test.SeleniumQC -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

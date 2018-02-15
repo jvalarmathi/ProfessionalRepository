@@ -13,9 +13,13 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
+import com.agiletestware.bumblebee.annotations.BooleanValue;
+import com.agiletestware.bumblebee.annotations.Bumblebee;
+
 import Objects.RequestAccessPage;
 import utility.TakingScreenShot;
 import utility.TakingfullpagescreenShot;
+@Bumblebee(testplan = "Subject\\SeleniumAutomation", testlab = "Root\\Professional.com", testset = "Selenium Test Set", testname = "RequestAccessvalidationTest",hasSteps = BooleanValue.TRUE)
 
 public class RequestaccessvalidationTest {
 	String driverpath="src/main/java/Drivers/chromedriver.exe";

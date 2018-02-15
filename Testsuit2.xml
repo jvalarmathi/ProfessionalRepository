@@ -3,7 +3,7 @@
 <suite name="TestSuite" >
 <test name="professional.com">
 <classes>
-<class name="Mathi.Test.RequestAccessTest"/>
+<class name="Mathi.Test.RequestaccessvalidationTestB"/>
 </classes>
 </test>
 </suite>

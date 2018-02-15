@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 6, Errors: 0, Skipped: 0, Time elapsed: 50.687 sec <<< FAILURE! - in TestSuite
+ValidateHeaderErrormessages(Mathi.Test.RequestaccessvalidationTestB)  Time elapsed: 0.297 sec  <<< FAILURE!
+java.lang.AssertionError: expected [Please correct the errors below.] but found [Please correct the error below.]
+	at Mathi.Test.RequestaccessvalidationTestB.ValidateHeaderErrormessages(RequestaccessvalidationTestB.java:89)
+
+ValidateEmailErrormessages(Mathi.Test.RequestaccessvalidationTestB)  Time elapsed: 0.409 sec  <<< FAILURE!
+java.lang.AssertionError: expected [Please enter an e-mail address] but found [Please enter an email address]
+	at Mathi.Test.RequestaccessvalidationTestB.ValidateEmailErrormessages(RequestaccessvalidationTestB.java:99)
+
+ValidatepasswordErrormessages(Mathi.Test.RequestaccessvalidationTestB)  Time elapsed: 0.368 sec  <<< FAILURE!
+java.lang.AssertionError: expected [Password must contain seven characters or more] but found [Password must contain seven characters or more ]
+	at Mathi.Test.RequestaccessvalidationTestB.ValidatepasswordErrormessages(RequestaccessvalidationTestB.java:110)
+
+ValidateFNErrormessages(Mathi.Test.RequestaccessvalidationTestB)  Time elapsed: 0.347 sec  <<< FAILURE!
+java.lang.AssertionError: expected [Please enter a first name] but found [Please enter first name]
+	at Mathi.Test.RequestaccessvalidationTestB.ValidateFNErrormessages(RequestaccessvalidationTestB.java:121)
+
+ValidateStateErrormessages(Mathi.Test.RequestaccessvalidationTestB)  Time elapsed: 0.328 sec  <<< FAILURE!
+java.lang.AssertionError: expected [Please select a state] but found [Please ]
+	at Mathi.Test.RequestaccessvalidationTestB.ValidateStateErrormessages(RequestaccessvalidationTestB.java:178)
+
+ValidateZipcodeErrormessages(Mathi.Test.RequestaccessvalidationTestB)  Time elapsed: 0.349 sec  <<< FAILURE!
+java.lang.AssertionError: expected [Please enter a ZIP/Postal Code] but found [Please enter ]
+	at Mathi.Test.RequestaccessvalidationTestB.ValidateZipcodeErrormessages(RequestaccessvalidationTestB.java:190)
+

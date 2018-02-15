@@ -3,7 +3,7 @@
     <!-- URL of the Bumblebee Server -->
     <bumblebee_url>http://daas-sapts-v007:8087/bumblebee</bumblebee_url>
     <!-- URL of HP ALM Server -->
-    <alm_url>https://amw01528.ent.core.medtronic.com:8443/qcbi</alm_url>
+    <alm_url>https://amw01528.ent.core.medtronic.com:8443/qcbin</alm_url>
     <!-- Name of HP ALM User -->
     <alm_user>padivv2</alm_user>
     <!-- Encrypted password: please use http://server_name:port/bumblebee/password/encrypt to encrypt your plain text password  -->
@@ -14,4 +14,5 @@
     <alm_project>MDT_DOT_COM</alm_project>
     <!-- Asynchronous (offline) update -->
     <async_update>true</async_update>
-</bumblebee>
+    <screenshotOnFailure>true</screenshotOnFailure>    
+    </bumblebee>

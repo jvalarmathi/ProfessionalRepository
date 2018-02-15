@@ -17,6 +17,7 @@ import ru.yandex.qatools.ashot.screentaker.ViewportPastingStrategy;
 
 public class TakingfullpagescreenShot {
 	
+	//public void takingfullSS(WebDriver driver, String SS3) throws IOException
 	public void takingfullSS(WebDriver driver, String SS3) throws IOException
 	{
 	   final Screenshot screenshot = new AShot().shootingStrategy(

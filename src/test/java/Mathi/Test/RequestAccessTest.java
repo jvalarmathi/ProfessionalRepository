@@ -19,12 +19,12 @@ import com.agiletestware.bumblebee.annotations.Bumblebee;
 import Objects.RequestAccessPage;
 import utility.TakingScreenShot;
 import utility.TakingfullpagescreenShot;
-@Bumblebee(testplan = "Subject\\SeleniumAutomation", testlab = "Root\\Professional.com", testset = "SeleniumAutomation")
+@Bumblebee(testplan = "Subject\\SeleniumAutomation", testlab = "Root\\Professional.com", testset = "SeleniumAutomation2")
 public class RequestAccessTest {
 	String driverpath="src/main/java/Drivers/chromedriver.exe";
 	WebDriver driver;
 	Properties prop = new Properties();
-	@BeforeTest
+		@BeforeTest
 	public void Launchbrowser() throws InterruptedException
 	{
 		File file = new File("src/test/java/utility/datafile.properties");
@@ -93,6 +93,7 @@ public class RequestAccessTest {
 			System.out.println("Request Access is Not Successful");
 		}
 		}
+	
 @AfterTest
 	
 	public void Closebrowser()

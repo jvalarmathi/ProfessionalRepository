@@ -1,0 +1,860 @@
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbi, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+DEBUG - Skipping test method: Closebrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbi, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+DEBUG - Skipping test method: Closebrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+DEBUG - Skipping test method: Closebrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:0
+INFO - Exporting time: 1 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+DEBUG - Skipping test method: Closebrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:0
+INFO - Exporting time: 3 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+DEBUG - Skipping test method: Closebrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:1
+INFO - Exporting time: 6 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+DEBUG - Skipping test method: Closebrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:1
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+DEBUG - Skipping test method: Closebrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:2
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+DEBUG - Skipping test method: Closebrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:2
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+DEBUG - Skipping test method: Closebrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:3
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+DEBUG - Skipping test method: Closebrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:3
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+DEBUG - Skipping test method: Closebrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:4
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+DEBUG - Skipping test method: Closebrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:4
+INFO - Exporting time: 1 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+DEBUG - Skipping test method: Closebrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:5
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+DEBUG - Skipping test method: Closebrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:5
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+DEBUG - Skipping test method: Closebrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:6
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+DEBUG - Skipping test method: Closebrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:6
+INFO - Exporting time: 1 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+DEBUG - Skipping test method: Closebrowser as it is not marked with @Test annotation
+INFO - Skipping export to ALM for test RequestAccessTest: There is no Bumblebee annotation defined for Mathi.Test.RequestaccessvalidationTest.RequestAccessTest or class Mathi.Test.RequestaccessvalidationTest
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:7
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+DEBUG - Skipping test method: Closebrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:7
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+DEBUG - Skipping test method: Closebrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:8
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+DEBUG - Skipping test method: Closebrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:8
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+DEBUG - Skipping test method: Closebrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:9
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+DEBUG - Skipping test method: Closebrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:9
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+DEBUG - Skipping test method: Closebrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:10
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+DEBUG - Skipping test method: Closebrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:10
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+DEBUG - Skipping test method: Closebrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:11
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+DEBUG - Skipping test method: Closebrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:11
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+DEBUG - Skipping test method: Closebrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:12
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:12
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:13
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:13
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:14
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:14
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:15
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:15
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:16
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:16
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+DEBUG - Skipping test method: Launchbrowser as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:17
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:17
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:18
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:18
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:19
+INFO - Exporting time: 0 seconds
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, almEncryptedPassword=********, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true]
+INFO - Parsing test results for ALM
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:19
+INFO - Exporting time: 0 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:20
+INFO - Exporting time: 0 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:20
+INFO - Exporting time: 0 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:21
+INFO - Exporting time: 0 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:21
+INFO - Exporting time: 0 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=false, takeScreenshotOnFailure=true, testToolConfig=null]
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Exporting test data to ALM
+INFO - Exporting results:
+INFO - Test Plan: Subject\SeleniumAutomation, Test Lab: Root\Professional.com, Test Set: Selenium Test Set
+INFO -   Test case: NewLogin, status: OK
+INFO - Exporting time: 3 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=false, takeScreenshotOnFailure=true, testToolConfig=null]
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Exporting test data to ALM
+INFO - Exporting results:
+INFO - Test Plan: Subject\SeleniumAutomation, Test Lab: Root\Professional.com, Test Set: Selenium Test Set
+INFO -   Test case: NewLogin, status: OK
+INFO - Exporting time: 1 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=false, takeScreenshotOnFailure=true, testToolConfig=null]
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Exporting test data to ALM
+INFO - Exporting results:
+INFO - Test Plan: Subject\SeleniumAutomation, Test Lab: Root\Professional.com, Test Set: Selenium Test Set
+INFO -   Test case: NewLogin, status: OK
+INFO - Exporting time: 3 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=false, takeScreenshotOnFailure=true, testToolConfig=null]
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Exporting test data to ALM
+INFO - Exporting results:
+INFO - Test Plan: Subject\SeleniumAutomation, Test Lab: Root\Professional.com, Test Set: Selenium Test Set
+INFO -   Test case: NewLogin, status: OK
+WARN -     Warnings: 
+WARN -       XML/JSON document does not contain information about step: Closebrowser. Setting status: No Run
+WARN -       XML/JSON document does not contain information about step: LaunchBrowser. Setting status: No Run
+WARN -       XML/JSON document does not contain information about step: SuccessfulLogin. Setting status: No Run
+INFO -   Test case: NewLogin, status: OK
+WARN -     Warnings: 
+WARN -       XML/JSON document does not contain information about step: Closebrowser. Setting status: No Run
+WARN -       XML/JSON document does not contain information about step: LaunchBrowser. Setting status: No Run
+WARN -       XML/JSON document does not contain information about step: SuccessfulLogin. Setting status: No Run
+INFO -   Test case: NewLogin, status: OK
+WARN -     Warnings: 
+WARN -       XML/JSON document does not contain information about step: Closebrowser. Setting status: No Run
+WARN -       XML/JSON document does not contain information about step: LaunchBrowser. Setting status: No Run
+WARN -       XML/JSON document does not contain information about step: SuccessfulLogin. Setting status: No Run
+INFO - Exporting time: 3 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=false, takeScreenshotOnFailure=true, testToolConfig=null]
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Exporting test data to ALM
+INFO - Exporting results:
+INFO - Test Plan: Subject\SeleniumAutomation, Test Lab: Root\Professional.com, Test Set: Selenium Test Set
+INFO -   Test case: NewLogin, status: OK
+INFO - Exporting time: 3 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=false, takeScreenshotOnFailure=true, testToolConfig=null]
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+DEBUG - Skipping test method: tearDown as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Exporting results:
+INFO - Test Plan: Subject\SeleniumAutomation, Test Lab: Root\Professional.com, Test Set: Selenium Test Set
+INFO -   Test case: NewLogin, status: OK
+INFO - Exporting time: 1 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=false, takeScreenshotOnFailure=true, testToolConfig=null]
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+DEBUG - Skipping test method: tearDown as it is not marked with @Test annotation
+INFO - Exporting test data to ALM
+INFO - Exporting results:
+INFO - Test Plan: Subject\SeleniumAutomation, Test Lab: Root\Professional.com, Test Set: Selenium Test Set
+INFO -   Test case: NewLogin, status: OK
+INFO - Exporting time: 7 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:22
+INFO - Exporting time: 0 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:22
+INFO - Exporting time: 0 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:23
+INFO - Exporting time: 0 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot421020453713218856.png
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:23
+INFO - Exporting time: 2 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot5431753719843042822.png
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:24
+INFO - Exporting time: 1 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot6969238100879799264.png
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:24
+INFO - Exporting time: 2 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot4618913320683395471.png
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:25
+INFO - Exporting time: 2 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot7165681661358484260.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot1977053248344249978.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot4596620999497582005.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot5075157943778135350.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot4177120847370478576.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot6511497486074998545.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot7342585442013827151.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot1738573675295173393.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot6815817647752586194.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot1173937642716687136.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot1494981800826006028.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot5656063609732454557.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot834567108528488594.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot2926105712235217340.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot4506624091734724987.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot6450981004000747883.png
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:25
+INFO - Exporting time: 26 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot6278041497225121009.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot1609901285575364573.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot7423634064684845679.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot8301015348007803039.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot2632088892068323558.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot7738801987701191218.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot8513232603591528355.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot1714550201745975575.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot5702700311844050066.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot554325772582699293.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot6364903326436418816.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot1956114312481748305.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot5220199703869568744.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot7978434343538813833.png
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:26
+INFO - Exporting time: 27 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot3591889467417807443.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot5918783358100389664.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot3193170732394884228.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot175449960514857976.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot58014760355476240.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot6326675786147844595.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot4224598936850872101.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot2967364526652613787.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot580859818441825285.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot5295723272835917073.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot1535847987509074229.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot5416189356144262230.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot3653467440012642865.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot1789634234869109689.png
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:26
+INFO - Exporting time: 27 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot1763844188007963429.png
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:27
+INFO - Exporting time: 2 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot7249896850483973339.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot2664715223193578639.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot1170393597172181665.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot5030578525314144153.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot8468968897065648213.png
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:27
+INFO - Exporting time: 9 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot3252492450573413173.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot2391051039885985640.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot1499531608898663394.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot4443786808193043381.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot4566421316260821218.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot4394198695809659630.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot2547577176350916572.png
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:28
+INFO - Exporting time: 13 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot8229815748062968430.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot8215506210252546413.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot76712384158915685.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot5448220888317552003.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot6163180714481549712.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot809724091359393295.png
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:28
+INFO - Exporting time: 9 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:29
+INFO - Exporting time: 0 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - Skipping export to ALM for test Closebrowser: There is no Bumblebee annotation defined for Mathi.Test.RequestaccessvalidationTestB.Closebrowser or class Mathi.Test.RequestaccessvalidationTestB
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:29
+INFO - Exporting time: 0 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - Skipping export to ALM for test Closebrowser: There is no Bumblebee annotation defined for Mathi.Test.RequestaccessvalidationTestB.Closebrowser or class Mathi.Test.RequestaccessvalidationTestB
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:30
+INFO - Exporting time: 0 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - Skipping export to ALM for test Closebrowser: There is no Bumblebee annotation defined for Mathi.Test.RequestaccessvalidationTestB.Closebrowser or class Mathi.Test.RequestaccessvalidationTestB
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:30
+INFO - Exporting time: 0 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:31
+INFO - Exporting time: 0 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:31
+INFO - Exporting time: 0 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:32
+INFO - Exporting time: 0 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:32
+INFO - Exporting time: 0 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot3815368553726668342.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot2988814330797822078.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot8245028906904499775.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot8617520928280051947.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot3453820921341110190.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot6577965947556717231.png
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:33
+INFO - Exporting time: 9 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot475874373846833282.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot7126178152887057277.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot7542895187295902248.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot4792744332020080345.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot5829020113800079058.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot3776141094364011473.png
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - No remote test tool configuration. Cannot fetch data from remote test tool
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:33
+INFO - Exporting time: 9 seconds

@@ -284,7 +284,7 @@ public RequestAccessPage (WebDriver driver) {
      public void fnmsg()
      {
     	String FnmsgA=fnmsg.getText();
-    	String FnmsgE="Please enter a first name";
+    	String FnmsgE="Please enter first name";
     	if (FnmsgE.equals(FnmsgA))
         {
      	   System.out.println("Firstname message is matching with expected message:   " + FnmsgA);
@@ -314,7 +314,7 @@ public RequestAccessPage (WebDriver driver) {
      public void Emailmsg()
      {
     	String EmailmsgA=Emailmsg.getText();
-    	String EmailmsgE="Please enter an e-mail address";
+    	String EmailmsgE="Please enter an email address";
     	if (EmailmsgE.equals(EmailmsgA))
         {
      	   System.out.println("Email message is matching with expected message:   " + EmailmsgA);
@@ -328,7 +328,7 @@ public RequestAccessPage (WebDriver driver) {
      public void headmsg()
      {
     	 String headmsgA = headmsg.getText();
-         String headmsgE = "Please correct the errors below.";
+         String headmsgE = "Please correct the error below.";
        if (headmsgE.equals(headmsgA))
        {
     	   System.out.println("Header message is matching with expected message:   " + headmsgA);

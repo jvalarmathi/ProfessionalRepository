@@ -17,11 +17,11 @@
   <dependencies>
   
        <dependency>
-        <groupId>com.agiletestware</groupId>
-        <artifactId>bumblebee-annotations</artifactId>
-        <version>0.0.3</version>
-        <scope>test</scope>
-    </dependency>
+            <groupId>com.agiletestware</groupId>
+            <artifactId>bumblebee-annotations</artifactId>
+            <version>0.0.4</version>
+            <scope>test</scope>
+        </dependency>
       
        <dependency>
       <groupId>junit</groupId>
@@ -125,30 +125,30 @@
         </configuration> 
        </plugin>  	
        <!-- Following plugin excutes the testng tests -->
+<!--   	<plugin> -->
+<!--   		<groupId>org.apache.maven.plugins</groupId> -->
+<!--   		<artifactId>maven-surefire-plugin</artifactId> -->
+<!--   		<version>2.18.1</version> -->
+<!--   		<configuration> -->
+<!--            <suiteXmlFiles> -->
+<!--                <suiteXmlFile>Testsuit2.xml</suiteXmlFile> -->
+<!--           </suiteXmlFiles> -->
+<!--           <testFailureIgnore>true</testFailureIgnore> -->
+<!--         </configuration>  -->
+<!--   	</plugin>    	 -->
+  	
   	<plugin>
-  		<groupId>org.apache.maven.plugins</groupId>
-  		<artifactId>maven-surefire-plugin</artifactId>
-  		<version>2.18.1</version>
-  		<configuration>
-           <suiteXmlFiles>
-               <suiteXmlFile>${suiteXmlFile}</suiteXmlFile>
-          </suiteXmlFiles>
-          <testFailureIgnore>true</testFailureIgnore>
-        </configuration> 
-  	</plugin>    	
-  	<plugin>
-            <groupId>org.apache.maven.plugins</groupId>
-            <artifactId>maven-surefire-plugin</artifactId>
-            <version>2.19</version>
-            <configuration>
-                <properties>
-                    <property>
-                        <name>listener</name>
-                        <value>com.agiletestware.bumblebee.annotations.BumblebeeJUnitListener</value>
-                    </property>
-                </properties>
-            </configuration>
-        </plugin>
+	<groupId>org.apache.maven.plugins</groupId>
+	<artifactId>maven-compiler-plugin</artifactId>
+	<version>3.6.0</version>
+	<configuration>
+               <fork>true</fork>
+                <executable>C:\Program Files\Java\jdk-9.0.4\bin\javac.exe</executable> 
+                    <source>1.8</source>
+                    <target>1.8</target>
+           </configuration>
+	</plugin> 
+  	
          <plugin>
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-surefire-plugin</artifactId>
@@ -157,9 +157,13 @@
                 <properties>
                     <property>
                         <name>listener</name>
-                        <value>com.agiletestware.bumblebee.annotations.testng.BumblebeeTestNGReporter</value>
+                        <value>com.agiletestware.bumblebee.annotations.testng.BumblebeeTestNGReporter,com.agiletestware.bumblebee.annotations.testng.BumblebeeTestNGListener</value>
                     </property>
                 </properties>
+                <suiteXmlFiles>
+               <suiteXmlFile>Testsuit2.xml</suiteXmlFile>
+          </suiteXmlFiles>
+          <testFailureIgnore>true</testFailureIgnore>
             </configuration>
         </plugin>
         
