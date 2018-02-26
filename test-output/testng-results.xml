@@ -1,29 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" ignored="0" total="15" passed="15">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="39274" started-at="2018-02-14T07:46:26Z" finished-at="2018-02-14T07:47:05Z">
+  <suite name="Default suite" duration-ms="20322" started-at="2018-02-21T12:34:42Z" finished-at="2018-02-21T12:35:03Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="39274" started-at="2018-02-14T07:46:26Z" finished-at="2018-02-14T07:47:05Z">
-      <class name="Mathi.Test.SeleniumQC">
-        <test-method status="PASS" signature="Launchbrowser()[pri:0, instance:Mathi.Test.SeleniumQC@bf3bbf]" name="Launchbrowser" is-config="true" duration-ms="9011" started-at="2018-02-14T01:46:26Z" finished-at="2018-02-14T01:46:35Z">
+    <test name="Default test" duration-ms="20322" started-at="2018-02-21T12:34:42Z" finished-at="2018-02-21T12:35:03Z">
+      <class name="Mathi.Test.Professionalheaderandfootertestafterlogin">
+        <test-method status="PASS" signature="Launchbrowser()[pri:0, instance:Mathi.Test.Professionalheaderandfootertestafterlogin@ef9176]" name="Launchbrowser" duration-ms="5242" started-at="2018-02-21T06:34:42Z" finished-at="2018-02-21T06:34:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Launchbrowser -->
-        <test-method status="PASS" signature="Launchbrowser()[pri:1, instance:Mathi.Test.SeleniumQC@bf3bbf]" name="Launchbrowser" duration-ms="8506" started-at="2018-02-14T01:46:35Z" finished-at="2018-02-14T01:46:43Z">
+        <test-method status="PASS" signature="LoginTest()[pri:1, instance:Mathi.Test.Professionalheaderandfootertestafterlogin@ef9176]" name="LoginTest" duration-ms="11764" started-at="2018-02-21T06:34:48Z" finished-at="2018-02-21T06:34:59Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Launchbrowser -->
-        <test-method status="PASS" signature="RequestAccessTest()[pri:2, instance:Mathi.Test.SeleniumQC@bf3bbf]" name="RequestAccessTest" duration-ms="19176" started-at="2018-02-14T01:46:43Z" finished-at="2018-02-14T01:47:02Z">
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="ReqacceesslinkTest()[pri:2, instance:Mathi.Test.Professionalheaderandfootertestafterlogin@ef9176]" name="ReqacceesslinkTest" duration-ms="48" started-at="2018-02-21T06:34:59Z" finished-at="2018-02-21T06:35:00Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- RequestAccessTest -->
-        <test-method status="PASS" signature="Closebrowser()[pri:3, instance:Mathi.Test.SeleniumQC@bf3bbf]" name="Closebrowser" duration-ms="2549" started-at="2018-02-14T01:47:02Z" finished-at="2018-02-14T01:47:05Z">
+        </test-method> <!-- ReqacceesslinkTest -->
+        <test-method status="PASS" signature="logoTest()[pri:2, instance:Mathi.Test.Professionalheaderandfootertestafterlogin@ef9176]" name="logoTest" duration-ms="53" started-at="2018-02-21T06:35:00Z" finished-at="2018-02-21T06:35:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoTest -->
+        <test-method status="PASS" signature="LoginlinkTest()[pri:3, instance:Mathi.Test.Professionalheaderandfootertestafterlogin@ef9176]" name="LoginlinkTest" duration-ms="133" started-at="2018-02-21T06:35:00Z" finished-at="2018-02-21T06:35:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginlinkTest -->
+        <test-method status="PASS" signature="HCPlinkTest()[pri:4, instance:Mathi.Test.Professionalheaderandfootertestafterlogin@ef9176]" name="HCPlinkTest" duration-ms="74" started-at="2018-02-21T06:35:00Z" finished-at="2018-02-21T06:35:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HCPlinkTest -->
+        <test-method status="PASS" signature="EducationTrainingTest()[pri:5, instance:Mathi.Test.Professionalheaderandfootertestafterlogin@ef9176]" name="EducationTrainingTest" duration-ms="68" started-at="2018-02-21T06:35:00Z" finished-at="2018-02-21T06:35:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EducationTrainingTest -->
+        <test-method status="PASS" signature="ReimpursementandpracticeTest()[pri:6, instance:Mathi.Test.Professionalheaderandfootertestafterlogin@ef9176]" name="ReimpursementandpracticeTest" duration-ms="84" started-at="2018-02-21T06:35:00Z" finished-at="2018-02-21T06:35:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReimpursementandpracticeTest -->
+        <test-method status="PASS" signature="FootertextTest()[pri:7, instance:Mathi.Test.Professionalheaderandfootertestafterlogin@ef9176]" name="FootertextTest" duration-ms="56" started-at="2018-02-21T06:35:00Z" finished-at="2018-02-21T06:35:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FootertextTest -->
+        <test-method status="PASS" signature="medtroniclinkTest()[pri:8, instance:Mathi.Test.Professionalheaderandfootertestafterlogin@ef9176]" name="medtroniclinkTest" duration-ms="78" started-at="2018-02-21T06:35:00Z" finished-at="2018-02-21T06:35:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- medtroniclinkTest -->
+        <test-method status="PASS" signature="privacylinkTest()[pri:9, instance:Mathi.Test.Professionalheaderandfootertestafterlogin@ef9176]" name="privacylinkTest" duration-ms="71" started-at="2018-02-21T06:35:00Z" finished-at="2018-02-21T06:35:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- privacylinkTest -->
+        <test-method status="PASS" signature="termsofuselinkTest()[pri:10, instance:Mathi.Test.Professionalheaderandfootertestafterlogin@ef9176]" name="termsofuselinkTest" duration-ms="70" started-at="2018-02-21T06:35:00Z" finished-at="2018-02-21T06:35:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- termsofuselinkTest -->
+        <test-method status="PASS" signature="CustomersupportLinkTest()[pri:11, instance:Mathi.Test.Professionalheaderandfootertestafterlogin@ef9176]" name="CustomersupportLinkTest" duration-ms="75" started-at="2018-02-21T06:35:00Z" finished-at="2018-02-21T06:35:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CustomersupportLinkTest -->
+        <test-method status="PASS" signature="ContactuslinkTest()[pri:12, instance:Mathi.Test.Professionalheaderandfootertestafterlogin@ef9176]" name="ContactuslinkTest" duration-ms="73" started-at="2018-02-21T06:35:00Z" finished-at="2018-02-21T06:35:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContactuslinkTest -->
+        <test-method status="PASS" signature="Closebrowser()[pri:13, instance:Mathi.Test.Professionalheaderandfootertestafterlogin@ef9176]" name="Closebrowser" duration-ms="2381" started-at="2018-02-21T06:35:00Z" finished-at="2018-02-21T06:35:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Closebrowser -->
-      </class> <!-- Mathi.Test.SeleniumQC -->
+      </class> <!-- Mathi.Test.Professionalheaderandfootertestafterlogin -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

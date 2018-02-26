@@ -1,28 +1,52 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 17, Failures: 6, Errors: 0, Skipped: 0, Time elapsed: 50.687 sec <<< FAILURE! - in TestSuite
-ValidateHeaderErrormessages(Mathi.Test.RequestaccessvalidationTestB)  Time elapsed: 0.297 sec  <<< FAILURE!
+Tests run: 25, Failures: 8, Errors: 0, Skipped: 0, Time elapsed: 94.568 sec <<< FAILURE! - in TestSuite
+ValidateHeaderErrormessages(Mathi.Test.RequestaccessvalidationTestB)  Time elapsed: 0.063 sec  <<< FAILURE!
 java.lang.AssertionError: expected [Please correct the errors below.] but found [Please correct the error below.]
-	at Mathi.Test.RequestaccessvalidationTestB.ValidateHeaderErrormessages(RequestaccessvalidationTestB.java:89)
+	at Mathi.Test.RequestaccessvalidationTestB.ValidateHeaderErrormessages(RequestaccessvalidationTestB.java:96)
 
-ValidateEmailErrormessages(Mathi.Test.RequestaccessvalidationTestB)  Time elapsed: 0.409 sec  <<< FAILURE!
+ValidateEmailErrormessages(Mathi.Test.RequestaccessvalidationTestB)  Time elapsed: 0.068 sec  <<< FAILURE!
 java.lang.AssertionError: expected [Please enter an e-mail address] but found [Please enter an email address]
-	at Mathi.Test.RequestaccessvalidationTestB.ValidateEmailErrormessages(RequestaccessvalidationTestB.java:99)
+	at Mathi.Test.RequestaccessvalidationTestB.ValidateEmailErrormessages(RequestaccessvalidationTestB.java:105)
 
-ValidatepasswordErrormessages(Mathi.Test.RequestaccessvalidationTestB)  Time elapsed: 0.368 sec  <<< FAILURE!
+ValidatepasswordErrormessages(Mathi.Test.RequestaccessvalidationTestB)  Time elapsed: 0.053 sec  <<< FAILURE!
 java.lang.AssertionError: expected [Password must contain seven characters or more] but found [Password must contain seven characters or more ]
-	at Mathi.Test.RequestaccessvalidationTestB.ValidatepasswordErrormessages(RequestaccessvalidationTestB.java:110)
+	at Mathi.Test.RequestaccessvalidationTestB.ValidatepasswordErrormessages(RequestaccessvalidationTestB.java:116)
 
-ValidateFNErrormessages(Mathi.Test.RequestaccessvalidationTestB)  Time elapsed: 0.347 sec  <<< FAILURE!
+onTestSuccess(Mathi.Test.SeleniumQC2)  Time elapsed: 4.805 sec  <<< FAILURE!
+org.openqa.selenium.NoSuchSessionException: 
+no such session
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DAAS-SAPTS-V007', ip: '10.49.72.49', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\padivv2\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 63.0.3239.132, webStorageEnabled: true}
+Session ID: 330550aa2c088aadda1d88dd1b592f2c
+	at Mathi.Test.SeleniumQC2.onTestSuccess(SeleniumQC2.java:80)
+
+ValidateFNErrormessages(Mathi.Test.RequestaccessvalidationTestB)  Time elapsed: 0.047 sec  <<< FAILURE!
 java.lang.AssertionError: expected [Please enter a first name] but found [Please enter first name]
-	at Mathi.Test.RequestaccessvalidationTestB.ValidateFNErrormessages(RequestaccessvalidationTestB.java:121)
+	at Mathi.Test.RequestaccessvalidationTestB.ValidateFNErrormessages(RequestaccessvalidationTestB.java:127)
 
-ValidateStateErrormessages(Mathi.Test.RequestaccessvalidationTestB)  Time elapsed: 0.328 sec  <<< FAILURE!
+ValidateStateErrormessages(Mathi.Test.RequestaccessvalidationTestB)  Time elapsed: 0.062 sec  <<< FAILURE!
 java.lang.AssertionError: expected [Please select a state] but found [Please ]
-	at Mathi.Test.RequestaccessvalidationTestB.ValidateStateErrormessages(RequestaccessvalidationTestB.java:178)
+	at Mathi.Test.RequestaccessvalidationTestB.ValidateStateErrormessages(RequestaccessvalidationTestB.java:184)
 
-ValidateZipcodeErrormessages(Mathi.Test.RequestaccessvalidationTestB)  Time elapsed: 0.349 sec  <<< FAILURE!
+ValidateZipcodeErrormessages(Mathi.Test.RequestaccessvalidationTestB)  Time elapsed: 0.063 sec  <<< FAILURE!
 java.lang.AssertionError: expected [Please enter a ZIP/Postal Code] but found [Please enter ]
-	at Mathi.Test.RequestaccessvalidationTestB.ValidateZipcodeErrormessages(RequestaccessvalidationTestB.java:190)
+	at Mathi.Test.RequestaccessvalidationTestB.ValidateZipcodeErrormessages(RequestaccessvalidationTestB.java:196)
+
+onTestSuccess(Mathi.Test.RequestaccessvalidationTestB)  Time elapsed: 5.062 sec  <<< FAILURE!
+org.openqa.selenium.NoSuchSessionException: 
+no such session
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DAAS-SAPTS-V007', ip: '10.49.72.49', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\padivv2\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 63.0.3239.132, webStorageEnabled: true}
+Session ID: b28b283c9dc6abd51c2daf3e42065802
+	at Mathi.Test.RequestaccessvalidationTestB.onTestSuccess(RequestaccessvalidationTestB.java:252)
 

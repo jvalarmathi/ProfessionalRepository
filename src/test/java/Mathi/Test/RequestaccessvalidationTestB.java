@@ -6,29 +6,36 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
 
+import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.OutputType;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.ui.Select;
-import org.testng.annotations.AfterTest;
-import org.testng.annotations.BeforeTest;
+import org.testng.annotations.AfterMethod;
 import org.testng.annotations.Test;
 import org.testng.Assert;
+import org.testng.ITestResult;
 
 import com.agiletestware.bumblebee.annotations.BooleanValue;
 import com.agiletestware.bumblebee.annotations.Bumblebee;
 import com.agiletestware.bumblebee.annotations.BumblebeeTestStep;
-import com.agiletestware.bumblebee.annotations.Parameter;
+import com.agiletestware.bumblebee.annotations.testng.BumblebeeTestNGListener;
+import com.agiletestware.bumblebee.annotations.testng.TestNGTestContext;
 import com.agiletestware.bumblebee.annotations.webdriver.WebDriverTest;
-
-import Objects.RequestAccessPage;
-import utility.TakingScreenShot;
+import com.agiletestware.bumblebee.annotations.config.BumblebeeConfiguration;
+import com.agiletestware.bumblebee.annotations.config.BumblebeeeConfigurationFactory;
 import utility.TakingfullpagescreenShot;
-@Bumblebee(testplan = "Subject\\SeleniumAutomation", testlab = "Root\\Professional.com", testset = "Selenium Test Set", testname = "RequestAccessValidation", hasSteps = BooleanValue.TRUE)
+
+
+@Bumblebee(testplan = "Subject\\SeleniumAutomation", testlab = "Root\\Professional.com", testset = "Selenium Test Set", testname = "RequestAccessValidation1", hasSteps = BooleanValue.TRUE)
 
 public class RequestaccessvalidationTestB implements WebDriverTest{
+	public static final String BUMBLEBEE_TEST_CONTEXT_ATTR_NAME = "BumblebeeTestContext";
+	private final BumblebeeConfiguration bumblebeeConfiguration = BumblebeeeConfigurationFactory.getConfiguration();
+	private static final Logger LOGGER = Logger.getLogger(BumblebeeTestNGListener.class);
+
 	String driverpath="src/main/java/Drivers/chromedriver.exe";
 	RemoteWebDriver driver;
 	Properties prop = new Properties();
@@ -59,7 +66,7 @@ public class RequestaccessvalidationTestB implements WebDriverTest{
 		Thread.sleep(3000);
 	}
 	
-	@BumblebeeTestStep(name = "SelectRegion", description = "Select Region dropdown selection", expected = "User is able to select Region")
+	@BumblebeeTestStep(name = "SelectRegion", description = "Select US region from dropdown selection", expected = "User is able to select Region")
 	@Test(priority=2)
 	
 	public void SelectRegion() throws IOException 
@@ -70,7 +77,7 @@ public class RequestaccessvalidationTestB implements WebDriverTest{
 		TakingfullpagescreenShot SS3 = new TakingfullpagescreenShot();
 		SS3.takingfullSS(driver, "ScreenShots\\RequestAccessValidationTest\\beforesubmit1.png");
 	}
-	@BumblebeeTestStep(name = "ClickSubmit", description = "Click functionality test", expected = "It should submit form")
+	@BumblebeeTestStep(name = "ClickSubmit", description = "Click Submit button", expected = "It should submit the form")
 	@Test(priority=3)
 	public void ClickSubmit() throws IOException, InterruptedException
 	{ 
@@ -79,17 +86,16 @@ public class RequestaccessvalidationTestB implements WebDriverTest{
 		TakingfullpagescreenShot SS3 = new TakingfullpagescreenShot();
 		SS3.takingfullSS(driver, "ScreenShots\\RequestAccessValidationTest\\aftersubmit1.png");
 		}
-	@BumblebeeTestStep(name = "Validate header field error message", description = "For blank input", expected = "Proper error should display for the  field")
+	@BumblebeeTestStep(name = "Validate header field error message", description = "Keep the field empty/ blank input", expected = "Proper error should display for the  field")
 	@Test(priority=4)
 	public void ValidateHeaderErrormessages()
 	{
 		WebElement header=driver.findElement(By.id("submit-message"));
 		String headmsgA=header.getText();
 		String headmsgE = "Please correct the error below.";
-        Assert.assertEquals(headmsgE, headmsgA);
-	       
+        Assert.assertEquals(headmsgE, headmsgA);          
 	}
-	@BumblebeeTestStep(name = "Validate Email field error message", description = "For blank input", expected = "Proper error should display for the  field")
+	@BumblebeeTestStep(name = "Validate Email field error message", description = "Keep the field empty/ blank input", expected = "Proper error should display for the  field")
 	@Test(priority=5)
 	public void ValidateEmailErrormessages()
 	{
@@ -99,7 +105,7 @@ public class RequestaccessvalidationTestB implements WebDriverTest{
 		Assert.assertEquals(EmailmsgE, EmailmsgA);
 
 	}
-	@BumblebeeTestStep(name = "Validate password field error message", description = "For blank input", expected = "Proper error should display for the  field")
+	@BumblebeeTestStep(name = "Validate password field error message", description = "Keep the field empty/ blank input", expected = "Proper error should display for the  field")
 
 	@Test(priority=6)
 	public void ValidatepasswordErrormessages()
@@ -110,7 +116,7 @@ public class RequestaccessvalidationTestB implements WebDriverTest{
     	Assert.assertEquals(PwdmsgE, PwdmsgA);
     	
      }
-	@BumblebeeTestStep(name = "Validate FN field error message", description = "For blank input", expected = "Proper error should display for the  field")
+	@BumblebeeTestStep(name = "Validate FN field error message", description = "Keep the field empty/ blank input", expected = "Proper error should display for the  field")
 
 	@Test(priority=7)
 	public void ValidateFNErrormessages()
@@ -122,7 +128,7 @@ public class RequestaccessvalidationTestB implements WebDriverTest{
     	
      }
 
-	@BumblebeeTestStep(name = "Validate LN field error message", description = "For blank input", expected = "Proper error should display for the  field")
+	@BumblebeeTestStep(name = "Validate LN field error message", description = "Keep the field empty/ blank input", expected = "Proper error should display for the  field")
 
 	@Test(priority=8)
 	public void ValidateLNErrormessages()
@@ -134,7 +140,7 @@ public class RequestaccessvalidationTestB implements WebDriverTest{
     	
      }
 
-	@BumblebeeTestStep(name = "Validate Facility field error message", description = "For blank input", expected = "Proper error should display for the  field")
+	@BumblebeeTestStep(name = "Validate Facility field error message", description = "Keep the field empty/ blank input", expected = "Proper error should display for the  field")
 
 	@Test(priority=9)
 	public void ValidateFacilityErrormessages()
@@ -145,7 +151,7 @@ public class RequestaccessvalidationTestB implements WebDriverTest{
 		    	String facilitymsgE="Please enter a practice/organization name";
 		    	Assert.assertEquals(facilitymsgE, facilitymsgA);
 	}
-	@BumblebeeTestStep(name = "Validate Address1 field error message", description = "For blank input", expected = "Proper error should display for the  field")
+	@BumblebeeTestStep(name = "Validate Address1 field error message", description = "Keep the field empty/ blank input", expected = "Proper error should display for the  field")
 
 	@Test(priority=10)
 	public void ValidateAddress1Errormessages()
@@ -156,7 +162,7 @@ public class RequestaccessvalidationTestB implements WebDriverTest{
 	Assert.assertEquals(address1msgE, address1msgA);
 
 	}
-	@BumblebeeTestStep(name = "Validate City field error message", description = "For blank input", expected = "Proper error should display for the  field")
+	@BumblebeeTestStep(name = "Validate City field error message", description = "Keep the field empty/ blank input", expected = "Proper error should display for the  field")
 
 	@Test(priority=11)
 	public void ValidateCityErrormessages()
@@ -167,7 +173,7 @@ public class RequestaccessvalidationTestB implements WebDriverTest{
     	Assert.assertEquals(citymsgE, citymsgA);
 
 	}
-	@BumblebeeTestStep(name = "Validate State field error message", description = "For blank input", expected = "Proper error should display for the  field")
+	@BumblebeeTestStep(name = "Validate State field error message", description = "Keep the field empty/ blank input", expected = "Proper error should display for the  field")
 	@Test(priority=12)
 	public void ValidateStateErrormessages()
 	{
@@ -179,7 +185,7 @@ public class RequestaccessvalidationTestB implements WebDriverTest{
     	
      }
 
-	@BumblebeeTestStep(name = "Validate Zipcode field error message", description = "For blank input", expected = "Proper error should display for the  field")
+	@BumblebeeTestStep(name = "Validate Zipcode field error message", description = "Keep the field empty/ blank input", expected = "Proper error should display for the  field")
 
 	@Test(priority=13)
 	public void ValidateZipcodeErrormessages()
@@ -189,7 +195,7 @@ public class RequestaccessvalidationTestB implements WebDriverTest{
     	String   zipcodemsgE="Please enter ";
     	Assert.assertEquals(zipcodemsgE, zipcodemsgA);	
     	}
-	@BumblebeeTestStep(name = "Validate Phone field error message", description = "For blank input", expected = "Proper error should display for the  field")
+	@BumblebeeTestStep(name = "Validate Phone field error message", description = "Keep the field empty/ blank input", expected = "Proper error should display for the  field")
 
 	@Test(priority=14)
 	public void ValidatePhoneErrormessages()
@@ -201,7 +207,7 @@ public class RequestaccessvalidationTestB implements WebDriverTest{
     	
      }
 
-	@BumblebeeTestStep(name = "Validate Spciality field error message", description = "For blank input", expected = "Proper error should display for the  field")
+	@BumblebeeTestStep(name = "Validate Spciality field error message", description = "Keep the field empty/ blank input", expected = "Proper error should display for the  field")
 
 	@Test(priority=15)
 	public void ValidateSpecialityErrormessages()
@@ -213,7 +219,7 @@ public class RequestaccessvalidationTestB implements WebDriverTest{
 
 	}
 	
-	@BumblebeeTestStep(name = "Validate HCP Checkbox field error message", description = "For blank input", expected = "Proper error should display for the  field")
+	@BumblebeeTestStep(name = "Validate HCP Checkbox field error message", description = "Keep the field empty/ blank input", expected = "Proper error should display for the  field")
 	@Test(priority=16)
 	public void ValidateHCPCheckboxErrormessages()
 	{
@@ -224,7 +230,7 @@ public class RequestaccessvalidationTestB implements WebDriverTest{
 
 	}
 	      
-	@BumblebeeTestStep(name = "Close browser", description = "Close browser", expected = "Browser should be closed")
+	@BumblebeeTestStep(name = "Close browser", description = "Close the  browser", expected = "Browser should be closed")
 
 	@Test(priority=17)	
 	public void Closebrowser()
@@ -238,4 +244,19 @@ public RemoteWebDriver getWebDriver() {
 	return driver;
 }
 
+@AfterMethod
+public void onTestSuccess(final ITestResult result) {
+	
+	final TestNGTestContext context = new TestNGTestContext();
+	result.setAttribute(BUMBLEBEE_TEST_CONTEXT_ATTR_NAME, context);
+	final File screenshot = driver.getScreenshotAs(OutputType.FILE);
+	LOGGER.info("Taking screenshot: " + screenshot.getAbsolutePath());
+	context.setScreenshot(screenshot);
+	
+	}
+
+
 }
+
+
+

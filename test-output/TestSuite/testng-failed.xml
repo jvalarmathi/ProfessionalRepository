@@ -3,13 +3,17 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [TestSuite]">
   <test name="professional.com(failed)">
     <classes>
-      <class name="Mathi.Test.RequestAccessTest">
+      <class name="Mathi.Test.RequestaccessvalidationTestB">
         <methods>
-          <include name="Closebrowser"/>
-          <include name="RequestAccessTest"/>
-          <include name="Launchbrowser"/>
+          <include name="ValidateEmailErrormessages"/>
+          <include name="ValidateHeaderErrormessages"/>
+          <include name="onTestSuccess"/>
+          <include name="ValidateStateErrormessages"/>
+          <include name="ValidatepasswordErrormessages"/>
+          <include name="ValidateZipcodeErrormessages"/>
+          <include name="ValidateFNErrormessages"/>
         </methods>
-      </class> <!-- Mathi.Test.RequestAccessTest -->
+      </class> <!-- Mathi.Test.RequestaccessvalidationTestB -->
     </classes>
   </test> <!-- professional.com(failed) -->
 </suite> <!-- Failed suite [TestSuite] -->
