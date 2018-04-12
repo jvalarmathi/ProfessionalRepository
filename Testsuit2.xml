@@ -4,7 +4,6 @@
 <test name="professional.com">
 <classes>
 <class name="Mathi.Test.RequestaccessvalidationTestB"/>
-<class name="Mathi.Test.RequestaccessvalidationTestB"/>
 </classes>
 </test>
 </suite>
