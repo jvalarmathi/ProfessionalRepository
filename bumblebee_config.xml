@@ -7,7 +7,7 @@
     <!-- Name of HP ALM User -->
     <alm_user>padivv2</alm_user>
     <!-- Encrypted password: please use http://server_name:port/bumblebee/password/encrypt to encrypt your plain text password  -->
-    <alm_encrypted_pass>VUsCPdmwnfm29+ggTO4YuQ==</alm_encrypted_pass>
+    <alm_encrypted_pass>qJzTXgk1IKH2NYZ0TQmkHA==</alm_encrypted_pass>
     <!-- HP ALM Domain -->
     <alm_domain>DEFAULT</alm_domain>
     <!-- HP ALM Project -->
