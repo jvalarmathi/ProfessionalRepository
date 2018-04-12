@@ -3,22 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="Mathi.Test.Professionalheaderandfootertestafterlogin">
+      <class name="Mathi.Test.eMnaual">
         <methods>
-          <include name="ReqacceesslinkTest"/>
-          <include name="ReimpursementandpracticeTest"/>
-          <include name="termsofuselinkTest"/>
-          <include name="ContactuslinkTest"/>
-          <include name="HCPlinkTest"/>
-          <include name="CustomersupportLinkTest"/>
-          <include name="LoginlinkTest"/>
-          <include name="FootertextTest"/>
-          <include name="medtroniclinkTest"/>
-          <include name="EducationTrainingTest"/>
-          <include name="logoTest"/>
-          <include name="privacylinkTest"/>
+          <include name="Launchbrowser"/>
+          <include name="EmanualtechsupportTest"/>
         </methods>
-      </class> <!-- Mathi.Test.Professionalheaderandfootertestafterlogin -->
+      </class> <!-- Mathi.Test.eMnaual -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

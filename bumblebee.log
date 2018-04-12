@@ -3573,3 +3573,198 @@ INFO - WebDriver instance returned null for sessionId. Cannot fetch data from re
 INFO - Exporting test data to ALM
 INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:52
 INFO - Exporting time: 30 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot3776441233570001859.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot8435134557619953485.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot1987274766190609354.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot4092128096777792799.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot8287913970811245232.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot8944485893063850604.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot7035549424353909368.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot8576014638471655475.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot2605344988291724385.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot2541092795889749518.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot551684822766574071.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot4724689119345154614.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot7384744435352788270.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot4477644070555662782.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot497140868021639914.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot6336604828435850910.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot2583534659173468511.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot7602348735085968048.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot1120428595839716686.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot3068966074810427322.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot7159516149643275179.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot4416733834393806369.png
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:52
+INFO - Exporting time: 15 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot8479740651593041855.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot3998438541531183233.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot8426659390739031150.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot7412776371679122655.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot8015387423406770266.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot1298968687774263085.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot6878805659485552997.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot8696482519471785944.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot5404647109278762034.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot6257642498874494499.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot7470052915605894333.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot7429476090916381483.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot2844020880668255999.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot2873147900237556258.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot4283895525756433208.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot31028546160797010.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot3391190952599337158.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot6877130904358038661.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot1368931824341906813.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot1061482804132174072.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot3994470054217499928.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot7676850447371977918.png
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/17:53
+INFO - Exporting time: 18 seconds
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Bumblebee configuration: BumblebeeXmlConfiguration [configFile=bumblebee_config.xml, almUrl=https://amw01528.ent.core.medtronic.com:8443/qcbin, almUser=padivv2, bumblebeeUrl=http://daas-sapts-v007:8087/bumblebee, almDomain=DEFAULT, almProject=MDT_DOT_COM, asyncUpdate=true, takeScreenshotOnFailure=true, testToolConfig=null]
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot4051831955841297672.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot6765047794143709368.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot1980942688627640565.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot7237332684455177584.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot1163944550486370865.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot132080125200864401.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot2180976192577096797.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot1801406244066630470.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot8921299228962028784.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot2901028092570677174.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot1804320891677682383.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot8563484942879181055.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot5766683279786737250.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot6415233475616151296.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot6779603863420076269.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot6567550510596276087.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot1700089050061041940.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot8152710753040265830.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot7096482010399427995.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot8483999388077586170.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot7761740296784229307.png
+INFO - Taking screenshot: C:\Users\padivv2\AppData\Local\Temp\screenshot8201121962889521215.png
+INFO - Parsing test results for ALM
+DEBUG - Parsing file: C:\Users\padivv2\eclipse-workspace\Test\bumblebee_config.xml
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+DEBUG - Skipping test method: onTestSuccess as it is not marked with @Test annotation
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - WebDriver instance returned null for sessionId. Cannot fetch data from remote test tool
+INFO - Exporting test data to ALM
+INFO - Request has been added to the queue. It will be processed later. URL: http://daas-sapts-v007:8087/bumblebee/offline/18:53
+INFO - Exporting time: 16 seconds
